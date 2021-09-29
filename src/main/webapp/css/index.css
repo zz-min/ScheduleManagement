@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+#admin-icon {
+	color: gray;
+	margin-left: 93%;
+	margin-top:20px;
+	vertical-align: middle;
+}
+
+#title {
+	text-align: center;
+	font-family: 'Righteous', cursive;
+	font-size: 50px;
+	margin: 80px;
+	min-width: 900px;
+}
